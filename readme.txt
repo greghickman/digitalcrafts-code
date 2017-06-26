@@ -1,0 +1,1 @@
+This is my main git folder and anything in here will be tracked.
